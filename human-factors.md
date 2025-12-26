@@ -1,0 +1,12 @@
+# Human Factors
+
+The following list compiles publications that consider human factors, such as explainability or human preferences, in the treatment of robot failures.
+
+1. J. Ca&ccedil;&atilde;o, J. Santos, and M. Antunes, "Explainable AI for industrial fault diagnosis: A systematic review," *Journal of Industrial Information Integration*, vol. 47, pp. 100905:1-27, Sept. 2025. Available: https://doi.org/10.1016/j.jii.2025.100905
+1. Y. M. Youssef and T. Hassan, "Towards Multimodal Co-Construction of Explanations for Robots: Combining Inductive Logic Programming and Large Language Models to Explain Robot Faults," in *Companion Proceedings of the 26th International Conference on Multimodal Interaction (ICMI)*, 2024, pp. 228-230. Available: https://doi.org/10.1145/3686215.3689204
+1. G. LeMasurier, A. Gautam, Z. Han, J. W. Crandall and H. A. Yanco, "Reactive or Proactive? How Robots Should Explain Failures," in *Proceedings of the 19th ACM/IEEE International Conference on Human-Robot Interaction (HRI)*, 2024, pp. 413-422. Available: https://doi.org/10.1145/3610977.3634963
+1. D. Das, S. Banerjee, and S. Chernova, "Explainable AI for Robot Failures: Generating Explanations That Improve User Assistance in Fault Recovery," in *Proceedings of the ACM/IEEE International Conference on Human-Robot Interaction (HRI)*, 2021, pp. 351-360. Available: https://doi.org/10.1145/3434073.3444657
+1. F. Correia, C. Guerra, S. Mascarenhas, F. S. Melo, and A. Paiva, "Exploring the Impact of Fault Justification in Human-Robot Trust," in *Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2018, pp. 507-513. Available: https://dl.acm.org/doi/abs/10.5555/3237383.3237459
+1. I. Awaad, G. K. Kraetzschmar, and J. Hertzberg, "The Role of Functional Affordances in Socializing Robots," *International Journal of Social Robotics*, vol. 7, pp. 421-438, 2015. Available: https://doi.org/10.1007/s12369-015-0281-3
+1. B. Sankaran, B. Pitzer and S. Osentoski, "Failure recovery with shared autonomy," in *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2012, pp. 349-355. Available: https://doi.org/10.1109/IROS.2012.6385524
+1. M. Scheutz, P. Schermerhorn, J. Kramer, and D. Anderson, "First steps toward natural human-like HRI," *Autonomous Robots*, vol. 22, no. 4, pp. 411-423, May 2007. Available: https://doi.org/10.1007/s10514-006-9018-3
