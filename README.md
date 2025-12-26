@@ -12,7 +12,6 @@ Maintainer: [Alex Mitrevski](https://alex-mitrevski.com)
     * [Human factors](human-factors.md)
     * [Surveys-and-books](surveys-and-books.md)
 * [Failure datasets](datasets.md)
-* [Frameworks and tools](frameworks-and-tools.md)
 * [Relevant workshops](workshops.md)
 
 ## Contributing
