@@ -1,4 +1,4 @@
-# awesome-robot-failure-management
+# AweRoFaM: Awesome Robot Failure Management
 
 A curated list of resources related to robot failure management (detection, diagnosis, recovery).
 
@@ -27,3 +27,16 @@ Contributions should follow the rules below:
     * Please **include the DOI whenever possible**. Preprints will only be accepted in exceptional cases (e.g. if a highly influential paper is only available as a preprint and has not been officially published anywhere, or if a workshop paper is included in the list).
 * Robotics-adjacent resources will also be included **if they have relevance for robotics** (e.g. work on vision-based anomaly detection or work dealing with failures in autonomous driving).
 * **Only resources that are available online in some form will be included** (e.g. workshop papers that haven't even been put on arXiv and thus cannot be downloaded will not be included).
+
+## Citing
+
+If you find this resource useful for your work, please consider citing it as follows:
+```
+@misc{awerofam,
+    author = {Mitrevski, A. et al.},
+    title = {{AweRoFaM: A Curated List of Resources Related to Robot Failure Management}},
+    year = {2025},
+    howpublished = {Online},
+    url = {\url{https://robot-failures.github.io/awesome-robot-failure-management/}}
+}
+```
