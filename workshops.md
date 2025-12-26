@@ -1,1 +1,11 @@
 # Relevant Workshops
+
+The following is a list of workshops dedicated to robot failures that have taken place over the years. Note that generic workshops on failures (such as the International Conference on Principles of Diagnosis and Resilient Systems (DX)) or workshops dealing with complementary aspects (such as verification or software quality) are not included in the list.
+
+1. *The Art of Robustness: Surviving Failures in Robotics*, 2025. Held in conjunction with the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [[workshop website]](https://art-of-robustness-iros2025.github.io)
+1. *2nd Workshop on Robot Execution Failures and Failure Management Strategies*, 2024. Held in conjunction with the Robotics: Science and Systems (RSS) conference. [[workshop website]](https://robot-failures.github.io/rss2024)
+1. *2nd International Workshop on Working with Trouble and Failures in conversation between humans and robots (WTF)*, 2023. Held in conjunction with the ACM SIGCHI Conversational User Interfaces conference. [[workshop website]](https://sites.google.com/view/wtf2023)
+1. *Workshop on Robot Execution Failures and Failure Management Strategies*, 2023. Held in conjunction with the IEEE International Conference on Robotics and Automation (ICRA). [[workshop website]](https://robot-failures.github.io/icra2023)
+1. *The imperfectly relatable robot: An interdisciplinary workshop on the role of failure in HRI*, 2023. Held in conjunction with the ACM/IEEE International Conference on Human Robot Interaction (HRI). [[workshop website]](https://sites.google.com/view/hri-failure-ws)
+1. *1st International Workshop on Working with Trouble and Failures in conversation between humans and robots (WTF)*, 2022. [[workshop website]](https://sites.google.com/view/wtfworkshop2022)
+1. *Why Robots fail to grasp? - Failure Ca(u)ses in Robot Grasping and Manipulation*, 2020. Held in conjunction with the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [[workshop website]](https://failtograsp.github.io)
