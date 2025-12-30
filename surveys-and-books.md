@@ -4,6 +4,7 @@ The following is a list of survey papers and books on aspects related to robot e
 
 ## Surveys
 
+1. J. Ca&ccedil;&atilde;o, J. Santos, and M. Antunes, "Explainable AI for industrial fault diagnosis: A systematic review," *Journal of Industrial Information Integration*, vol. 47, pp. 100905:1-27, Sept. 2025. Available: [https://doi.org/10.1016/j.jii.2025.100905](https://doi.org/10.1016/j.jii.2025.100905)
 1. E. Khalastchi and M. Kalech, "On Fault Detection and Diagnosis in Robotic Systems," *ACM Computing Surveys*, vol. 51, no. 1, pp. 1-24, Jan. 2018. Available: [https://doi.org/10.1145/3146389](https://doi.org/10.1145/3146389)
 1. G. Steinbauer, "A Survey about Faults of Robots Used in RoboCup," in *RoboCup 2012: Robot Soccer World Cup XVI*, Lecture Notes Computer Science, vol. 7500, pp. 344-355, 2013. Available: [https://doi.org/10.1007/978-3-642-39250-4_31](https://doi.org/10.1007/978-3-642-39250-4_31)
 1. O. Pettersson, "Execution monitoring in robotics: A survey," *Robotics and Autonomous Systems*, vol. 53, no. 2, pp. 73-88, 2005. Available: [https://doi.org/10.1016/j.robot.2005.09.004](https://doi.org/10.1016/j.robot.2005.09.004)
