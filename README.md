@@ -32,7 +32,7 @@ Contributions should follow the rules below:
 If you find this resource useful for your work, please consider citing it as follows:
 ```
 @misc{awerofam,
-    author = {Mitrevski, A. et al.},
+    author = {Mitrevski, A. and others},
     title = {{AweRoFaM: A Curated List of Resources Related to Robot Failure Management}},
     year = {2025},
     howpublished = {Online},
