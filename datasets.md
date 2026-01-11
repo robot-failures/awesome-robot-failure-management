@@ -2,6 +2,7 @@
 
 | Dataset name | Year  | Task(s) | Dataset URL  | Data modalities | Real, simulated, or both | URL to associated paper (/ if there is no paper) |
 |--------------|-------|---------|--------------|-----------------|--------------------------|--------------------------------------------------|
+| COFFAIL | 2026 | Various skills in the context of coffee preparation | [https://doi.org/10.5281/zenodo.18212316](https://doi.org/10.5281/zenodo.18212316) | RGB images, joint states, end effector poses, applied actions | Real | / |
 | Robot Localization Failure Prediction Dataset | 2025 | Localisation | [https://doi.org/10.15480/882.15836](https://doi.org/10.15480/882.15836) | LiDAR, odometry, localisation estimates, ground-truth poses | Simulated | / |
 | REASSEMBLE | 2025 | Object assembly and disassembly | [https://researchdata.tuwien.ac.at/records/0ewrv-8cb44](https://researchdata.tuwien.ac.at/records/0ewrv-8cb44) | RGB video, event camera video, force/torque measurements, audio, proprioception  | Real | [https://doi.org/10.15607/RSS.2025.XXI.059](https://doi.org/10.15607/RSS.2025.XXI.059) |
 | (Im)PerfectPour | 2025 | Preparing drinks | [https://drive.google.com/file/d/1hZkD2TG9LZhJLHb-JB-SZeuHdmBbSbRw/view?usp=sharing](https://drive.google.com/file/d/1hZkD2TG9LZhJLHb-JB-SZeuHdmBbSbRw/view?usp=sharing) | RGB video, force/torque measurements, proprioception  | Real | [https://doi.org/10.1109/LRA.2024.3520916](https://doi.org/10.1109/LRA.2024.3520916) |
