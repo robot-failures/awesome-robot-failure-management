@@ -25,7 +25,8 @@ The following is a list of survey papers and books on aspects related to robot e
 1. J. Carlson and R. R. Murphy, "Reliability analysis of mobile robots," in *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)*, 2003, pp. 274-281, vol. 1. Available: [https://doi.org/10.1109/ROBOT.2003.1241608](https://doi.org/10.1109/ROBOT.2003.1241608)
 1. M. L. Visinsky, J. R. Cavallaro, and I. D. Walker, "Robotic fault detection and fault tolerance: A survey," *Reliability Engineering & System Safety*, vol. 46, no. 2, pp. 139-158, 1994. Available: [https://doi.org/10.1016/0951-8320(94)90132-5](https://doi.org/10.1016/0951-8320(94)90132-5)
 
-## Books
+## Books and Book Chapters
 
 1. M. Blanke, M. Kinnaert, J. Lunze, and M. Staroswiecki, "Diagnosis and Fault Tolerant Control," 3rd ed., Springer-Verlag Berlin Heidelberg, Germany, 2016. Available: [https://link.springer.com/book/10.1007/978-3-662-47943-8](https://link.springer.com/book/10.1007/978-3-662-47943-8)
+1. L. E. Parker, "Reliability and Fault Tolerance in Collective Robot Systems," in *Handbook of Collective Robotics*. Jenny Stanford Publishing, 2013, ch. 6. Available: [https://www.taylorfrancis.com/chapters/edit/10.1201/b14908-9/reliability-fault-tolerance-collective-robot-systems-lynne-parker](https://www.taylorfrancis.com/chapters/edit/10.1201/b14908-9/reliability-fault-tolerance-collective-robot-systems-lynne-parker)
 1. R. Isermann, "Fault-Diagnosis Systems: An Introduction from Fault Detection to Fault Tolerance," Springer-Verlag Berlin Heidelberg, Germany, 2006. Available: [https://link.springer.com/book/10.1007/3-540-30368-5](https://link.springer.com/book/10.1007/3-540-30368-5)
