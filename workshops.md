@@ -2,6 +2,7 @@
 
 The following is a list of workshops dedicated to robot failures that have taken place over the years. Note that generic workshops on failures (such as the International Conference on Principles of Diagnosis and Resilient Systems (DX)) or workshops dealing with complementary aspects (such as verification or software quality) are not included in the list.
 
+1. *Failing Forward: Design and Deployment Lessons from Real-World Human–Robot Interaction*, 2026. Held in conjunction with the ACM/IEEE International Conference on Human-Robot Interaction (HRI). [[workshop website]](https://sites.google.com/monash.edu/failfowardhri2026/)
 1. *Workshop on Errors, Mistakes, and Failures in Humans and Robots*, 2026. Held in conjunction with the ACM/IEEE International Conference on Human-Robot Interaction (HRI). [[workshop website]](https://sites.google.com/view/emfhri26/home)
 1. *The Art of Robustness: Surviving Failures in Robotics*, 2025. Held in conjunction with the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [[workshop website]](https://art-of-robustness-iros2025.github.io)
 1. *2nd Workshop on Robot Execution Failures and Failure Management Strategies*, 2024. Held in conjunction with the Robotics: Science and Systems (RSS) conference. [[workshop website]](https://robot-failures.github.io/rss2024)
