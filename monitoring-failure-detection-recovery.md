@@ -1,5 +1,7 @@
 # Execution Monitoring / Anomaly and Failure Detection, and Failure Recovery
 
+<div class="publist-marker"></div>
+
 The following is a list of publications that deal with at least some aspect of anomaly / failure detection, overall execution monitoring, and / or failure recovery. The list also includes publications that specifically focus on learning-based methods for failure detection and / or recovery.
 
 1. H. Chong, J. Lee, and H. Ahn, "Robust Task Planning via Failure Detection Using Scene Graph From Multi-View Images," *IEEE Robotics and Automation Letters (RA-L)*, vol. 11, no. 2, pp. 1986-1993, Feb. 2026. Available: [https://doi.org/10.1109/LRA.2025.3645659](https://doi.org/10.1109/LRA.2025.3645659)
@@ -194,3 +196,5 @@ The following is a list of publications that deal with at least some aspect of a
 1. C. Ferrell, "Failure Recognition and Fault Tolerance of an Autonomous Robot," *Adaptive Behavior*, vol. 2, no. 4, pp. 375-398, Mar. 1994. Available: [https://doi.org/10.1177/105971239400200403](https://doi.org/10.1177/105971239400200403)
 1. F. R. Noreils, "Toward a Robot Architecture Integrating Cooperation between Mobile Robots: Application to Indoor Environment," *The International Journal of Robotics Research*, vol. 12, no. 1, pp. 79-98, Feb. 1993. Available: [https://doi.org/10.1177/027836499301200106](https://doi.org/10.1177/027836499301200106)
 1. K. P. Valavanis, C. A. Jacobson, and B. H. Gold, "Integration control and failure detection with application to the robot payload variation problem," *Journal of Intelligent and Robotic Systems*, vol. 4, pp. 145-173, June 1991. Available: [https://doi.org/10.1007/BF00440417](https://doi.org/10.1007/BF00440417)
+
+<script src="/awesome-robot-failure-management/assets/js/pub-filter.js"></script>
