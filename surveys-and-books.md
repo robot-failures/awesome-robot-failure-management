@@ -1,5 +1,7 @@
 # Surveys and Books
 
+<div class="publist-marker"></div>
+
 The following is a list of survey papers and books on aspects related to robot execution monitoring, failure diagnosis, and failure recovery.
 
 ## Surveys
@@ -30,7 +32,11 @@ The following is a list of survey papers and books on aspects related to robot e
 
 ## Books and Book Chapters
 
+<div class="publist-marker"></div>
+
 1. D. J. Brooks, D. J. Curtin, J. T. Kuczynski, J. J. Rodriguez, A. Steinfeld, and H. A. Yanco, "A communication paradigm for human-robot interaction during robot failure scenarios," in *Human-Machine Shared Contexts*. Academic Press, 2020, ch. 14, pp. 277-306. Available: [https://doi.org/10.1016/B978-0-12-820543-3.00014-6](https://doi.org/10.1016/B978-0-12-820543-3.00014-6)
 1. M. Blanke, M. Kinnaert, J. Lunze, and M. Staroswiecki, "Diagnosis and Fault Tolerant Control," 3rd ed., Springer-Verlag Berlin Heidelberg, Germany, 2016. Available: [https://link.springer.com/book/10.1007/978-3-662-47943-8](https://link.springer.com/book/10.1007/978-3-662-47943-8)
 1. L. E. Parker, "Reliability and Fault Tolerance in Collective Robot Systems," in *Handbook of Collective Robotics*. Jenny Stanford Publishing, 2013, ch. 6. Available: [https://www.taylorfrancis.com/chapters/edit/10.1201/b14908-9/reliability-fault-tolerance-collective-robot-systems-lynne-parker](https://www.taylorfrancis.com/chapters/edit/10.1201/b14908-9/reliability-fault-tolerance-collective-robot-systems-lynne-parker)
 1. R. Isermann, "Fault-Diagnosis Systems: An Introduction from Fault Detection to Fault Tolerance," Springer-Verlag Berlin Heidelberg, Germany, 2006. Available: [https://link.springer.com/book/10.1007/3-540-30368-5](https://link.springer.com/book/10.1007/3-540-30368-5)
+
+<script src="/awesome-robot-failure-management/assets/js/pub-filter.js"></script>

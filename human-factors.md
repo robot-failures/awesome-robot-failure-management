@@ -1,5 +1,7 @@
 # Human Factors
 
+<div class="publist-marker"></div>
+
 The following list compiles publications that consider human factors, such as explainability or human preferences, in the treatment of robot failures.
 
 1. J. Wang, Z. Zhou, J. Ren, L. Liu, and A. M. Morrison, "From failure to forgiveness: Robots' proactive role in the tourism industry," *Tourism Management*, vol. 111, pp. 105246:1-11, Dec. 2025. Available: [https://doi.org/10.1016/j.tourman.2025.105246](https://doi.org/10.1016/j.tourman.2025.105246)
@@ -126,3 +128,5 @@ The following list compiles publications that consider human factors, such as ex
 1. A. De Santis, B. Siciliano, A. De Luca, and A. Bicchi, "An atlas of physical human–robot interaction," *Mechanism and Machine Theory*, vol. 43, no. 3, pp. 253-270, Mar. 2008. Available: [https://doi.org/10.1016/j.mechmachtheory.2007.03.003](https://doi.org/10.1016/j.mechmachtheory.2007.03.003)
 1. M. Scheutz, P. Schermerhorn, J. Kramer, and D. Anderson, "First steps toward natural human-like HRI," *Autonomous Robots*, vol. 22, no. 4, pp. 411-423, May 2007. Available: [https://doi.org/10.1007/s10514-006-9018-3](https://doi.org/10.1007/s10514-006-9018-3)
 1. Y. Yamada, K. Suita, K. Imai, H. Ikeda, and N. Sugimoto, "A failure-to-safety robot system for human-robot coexistence," *Robotics and Autonomous Systems*, vol. 18, no. 1-2, pp. 283-291, July 1996. Available: [https://doi.org/10.1016/0921-8890(95)00075-5](https://doi.org/10.1016/0921-8890(95)00075-5)
+
+<script src="/awesome-robot-failure-management/assets/js/pub-filter.js"></script>

@@ -1,5 +1,7 @@
 # Failure Diagnosis
 
+<div class="publist-marker"></div>
+
 The following is a list of publications that are focused on robot failure diagnosis, namely the problem of analysing the causes of failures.
 
 1. M. Diehl and K. Ramirez-Amaro, "A causal-based approach to explain, predict and prevent failures in robotic tasks," *Robotics and Autonomous Systems (RAS)*, Elsevier, vol. 162, pp. 104376:1-12, Apr. 2023. Available: [https://doi.org/10.1016/j.robot.2023.104376](https://doi.org/10.1016/j.robot.2023.104376)
@@ -29,3 +31,5 @@ The following is a list of publications that are focused on robot failure diagno
 1. U. Lerner, R. Parr, D. Koller, and G. Biswas, *Bayesian Fault Detection and Diagnosis in Dynamic Systems* in *Proceedings of 17th AAAI Conference on Artificial Intelligence*, 2000, pp. 531-537. Available: [https://aaai.org/papers/00531-aaai00-081-bayesian-fault-detection-and-diagnosis-in-dynamic-systems/](https://aaai.org/papers/00531-aaai00-081-bayesian-fault-detection-and-diagnosis-in-dynamic-systems/)
 1. J. M. Naughton, Y. C. Chen, and J. Jiang, "A neural network application to fault diagnosis for robotic manipulator," in *Proceeding of the IEEE International Conference on Control Applications*, 1996, pp. 988-993. Available: [https://doi.org/10.1109/CCA.1996.559050](https://doi.org/10.1109/CCA.1996.559050)
 1. B. Freyermuth, "An approach to model based fault diagnosis of industrial robots," *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)*, 1991, pp. 1350-1356, vol.2. Available: [https://doi.org/10.1109/ROBOT.1991.131801](https://doi.org/10.1109/ROBOT.1991.131801)
+
+<script src="/awesome-robot-failure-management/assets/js/pub-filter.js"></script>
