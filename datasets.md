@@ -2,6 +2,7 @@
 
 | Dataset name | Year  | Task(s) | Dataset URL  | Data modalities | Real, simulated, or both | URL to associated paper (/ if there is no paper) |
 |--------------|-------|---------|--------------|-----------------|--------------------------|--------------------------------------------------|
+| Guardian | 2026 |  | [https://huggingface.co/collections/paulpacaud/robotic-failure-detection-dataset-and-model-guardian](https://huggingface.co/collections/paulpacaud/robotic-failure-detection-dataset-and-model-guardian) | RGB images, high-level task goal, sub-task description | Both | [https://openreview.net/forum?id=wps46mtC9B](https://openreview.net/forum?id=wps46mtC9B) |
 | COFFAIL | 2026 | Seven skills in the context of coffee preparation | [https://doi.org/10.5281/zenodo.18212316](https://doi.org/10.5281/zenodo.18212316) | RGB images, joint states, end effector poses, applied actions | Real | / |
 | Robot Localization Failure Prediction Dataset | 2025 | Localisation | [https://doi.org/10.15480/882.15836](https://doi.org/10.15480/882.15836) | LiDAR, odometry, localisation estimates, ground-truth poses | Simulated | / |
 | RoboMIND | 2025 | A variety of tasks and objects | [https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND](https://huggingface.co/datasets/x-humanoid-robomind/RoboMIND) | RGB-D data, proprioception, end effector information, language commands | Real | [https://doi.org/10.15607/RSS.2025.XXI.152](https://doi.org/10.15607/RSS.2025.XXI.152) |
