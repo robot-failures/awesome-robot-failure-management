@@ -4,6 +4,8 @@
 
 The following list compiles publications that consider human factors, such as explainability or human preferences, in the treatment of robot failures.
 
+**Scroll to the bottom of the page if you want to visualise a word cloud of the paper titles**.
+
 1. R. Tabatabaei, V. Kostakos, and W. Johal, "Oops, I Did It Again (But I Know It): Robot Failure Consistency and Awareness in Human-Robot Collaboration," in *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)*, 2026, pp. 1-18. Available: [https://doi.org/10.1145/3772318.3790336](https://doi.org/10.1145/3772318.3790336)
 1. A. Rouchitsas, X. Niu, G. Castellano, and D. G. Broo, ""What do I do now?": Spontaneous Human Responses to Robot Effectiveness and Efficiency Malfunctions in Collaborative Robotics," in *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)*, 2026, pp. 1-17. Available: [https://doi.org/10.1145/3772318.3793419](https://doi.org/10.1145/3772318.3793419)
 1. D. Goyeneche, L. Arango, F. Septianto, N. Pontes, and P. P. Leszczyc, "Emotionally competent robots: acknowledging customer anger in service failure," *Journal of Business Research*, vol. 206, pp. 115971:1-12, Mar. 2026. Available: [https://doi.org/10.1016/j.jbusres.2026.115971](https://doi.org/10.1016/j.jbusres.2026.115971)
@@ -139,4 +141,15 @@ The following list compiles publications that consider human factors, such as ex
 1. M. Scheutz, P. Schermerhorn, J. Kramer, and D. Anderson, "First steps toward natural human-like HRI," *Autonomous Robots*, vol. 22, no. 4, pp. 411-423, May 2007. Available: [https://doi.org/10.1007/s10514-006-9018-3](https://doi.org/10.1007/s10514-006-9018-3)
 1. Y. Yamada, K. Suita, K. Imai, H. Ikeda, and N. Sugimoto, "A failure-to-safety robot system for human-robot coexistence," *Robotics and Autonomous Systems*, vol. 18, no. 1-2, pp. 283-291, July 1996. Available: [https://doi.org/10.1016/0921-8890(95)00075-5](https://doi.org/10.1016/0921-8890(95)00075-5)
 
+<div id="word-cloud-container">
+    <div>
+        <button class="show-word-cloud" type="button" title="Show word cloud" style="margin-left:auto;padding:.35rem .6rem;border:1px solid #d0d7de;background:#f6f8fa;border-radius:.35rem;cursor:pointer;" onclick="const titles = extractTitlesFromReferenceList('ol'); renderWordCloud(titles, '#wordcloud-canvas');">Show word cloud</button>
+        <button class="hide-word-cloud" type="button" title="Hide word cloud" style="margin-left:auto;padding:.35rem .6rem;border:1px solid #d0d7de;background:#f6f8fa;border-radius:.35rem;cursor:pointer;" onclick="const canvas = document.getElementById('wordcloud-canvas'); const context = canvas.getContext('2d') ;context.clearRect(0, 0, canvas.width, canvas.height);">Hide word cloud</button>
+    </div>
+    <canvas id="wordcloud-canvas" width="800" height="500"></canvas>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.7/d3.layout.cloud.min.js"></script>
 <script src="/awesome-robot-failure-management/assets/js/pub-filter.js"></script>
+<script src="/awesome-robot-failure-management/assets/js/wordcloud-visualiser.js"></script>
