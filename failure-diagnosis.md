@@ -4,6 +4,8 @@
 
 The following is a list of publications that are focused on robot failure diagnosis, namely the problem of analysing the causes of failures.
 
+**Scroll to the bottom of the page if you want to visualise a word cloud of the paper titles**.
+
 1. M. Diehl and K. Ramirez-Amaro, "A causal-based approach to explain, predict and prevent failures in robotic tasks," *Robotics and Autonomous Systems (RAS)*, Elsevier, vol. 162, pp. 104376:1-12, Apr. 2023. Available: [https://doi.org/10.1016/j.robot.2023.104376](https://doi.org/10.1016/j.robot.2023.104376)
 1. A. Mitrevski, P. G. Pl&ouml;ger, and G. Lakemeyer, "A Hybrid Skill Parameterisation Model Combining Symbolic and Subsymbolic Elements for Introspective Robots," *Robotics and Autonomous Systems*, vol. 161, p. 104350:1-22, Mar. 2023. Available: [https://doi.org/10.1016/j.robot.2022.104350](https://doi.org/10.1016/j.robot.2022.104350)
 1. L. Jahaj, S. M. Gutierrez, T. W. Rosmarin, F. Wotawa, and G. Steinbauer-Wagner, "A Model-based diagnosis integrated architecture for dependable autonomous robots," in *34th International Workshop on Principles of Diagnosis (DX)*, 2023. Available: [https://tugraz.elsevierpure.com/en/publications/a-model-based-diagnosis-integrated-architecture-for-dependable-au/](https://tugraz.elsevierpure.com/en/publications/a-model-based-diagnosis-integrated-architecture-for-dependable-au/)
@@ -32,4 +34,15 @@ The following is a list of publications that are focused on robot failure diagno
 1. J. M. Naughton, Y. C. Chen, and J. Jiang, "A neural network application to fault diagnosis for robotic manipulator," in *Proceeding of the IEEE International Conference on Control Applications*, 1996, pp. 988-993. Available: [https://doi.org/10.1109/CCA.1996.559050](https://doi.org/10.1109/CCA.1996.559050)
 1. B. Freyermuth, "An approach to model based fault diagnosis of industrial robots," *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)*, 1991, pp. 1350-1356, vol.2. Available: [https://doi.org/10.1109/ROBOT.1991.131801](https://doi.org/10.1109/ROBOT.1991.131801)
 
+<div id="word-cloud-container">
+    <div>
+        <button class="show-word-cloud" type="button" title="Show word cloud" style="margin-left:auto;padding:.35rem .6rem;border:1px solid #d0d7de;background:#f6f8fa;border-radius:.35rem;cursor:pointer;" onclick="const titles = extractTitlesFromReferenceList('ol'); renderWordCloud(titles, '#wordcloud-canvas');">Show word cloud</button>
+        <button class="hide-word-cloud" type="button" title="Hide word cloud" style="margin-left:auto;padding:.35rem .6rem;border:1px solid #d0d7de;background:#f6f8fa;border-radius:.35rem;cursor:pointer;" onclick="const canvas = document.getElementById('wordcloud-canvas'); const context = canvas.getContext('2d') ;context.clearRect(0, 0, canvas.width, canvas.height);">Hide word cloud</button>
+    </div>
+    <canvas id="wordcloud-canvas" width="800" height="500"></canvas>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.7/d3.layout.cloud.min.js"></script>
 <script src="/awesome-robot-failure-management/assets/js/pub-filter.js"></script>
+<script src="/awesome-robot-failure-management/assets/js/wordcloud-visualiser.js"></script>

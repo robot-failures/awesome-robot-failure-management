@@ -4,6 +4,8 @@
 
 The following is a list of publications that deal with at least some aspect of anomaly / failure detection, overall execution monitoring, and / or failure recovery. The list also includes publications that specifically focus on learning-based methods for failure detection and / or recovery.
 
+**Scroll to the bottom of the page if you want to visualise a word cloud of the paper titles**.
+
 1. X. Zeng, X. Zhou, Y. Li, J. Shi, T. Li, L. Chen, L. Ren, and Y. Li, "Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols," in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, pp. 42386-42395. Available: [https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_Diagnose_Correct_and_Learn_from_Manipulation_Failures_via_Visual_Symbols_CVPR_2026_paper.html](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_Diagnose_Correct_and_Learn_from_Manipulation_Failures_via_Visual_Symbols_CVPR_2026_paper.html)
 1. G. Zhao, Z. Tang, X. Chen, Z. Kuang, Y. Tian, and G. Li, "FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation," in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026, pp. 22391-22401. Available: [https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_FLARE_A_Failure-Aware_Framework_for_Autonomous_Correction_and_Recovery_in_CVPR_2026_paper.html](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_FLARE_A_Failure-Aware_Framework_for_Autonomous_Correction_and_Recovery_in_CVPR_2026_paper.html)
 1. H. Luo, X. Bu, H. Wang, S. Guo, J. Liu, and W. Li, "Failure Detection With Zero-Shot Error Correction in Robotic Manipulation," *IEEE Robotics and Automation Letters (RA-L)*, vol. 11, no. 5, pp. 6256-6263, May 2026. Available: [https://doi.org/10.1109/LRA.2026.3678124](https://doi.org/10.1109/LRA.2026.3678124)
@@ -208,4 +210,15 @@ The following is a list of publications that deal with at least some aspect of a
 1. F. R. Noreils, "Toward a Robot Architecture Integrating Cooperation between Mobile Robots: Application to Indoor Environment," *The International Journal of Robotics Research*, vol. 12, no. 1, pp. 79-98, Feb. 1993. Available: [https://doi.org/10.1177/027836499301200106](https://doi.org/10.1177/027836499301200106)
 1. K. P. Valavanis, C. A. Jacobson, and B. H. Gold, "Integration control and failure detection with application to the robot payload variation problem," *Journal of Intelligent and Robotic Systems*, vol. 4, pp. 145-173, June 1991. Available: [https://doi.org/10.1007/BF00440417](https://doi.org/10.1007/BF00440417)
 
+<div id="word-cloud-container">
+    <div>
+        <button class="show-word-cloud" type="button" title="Show word cloud" style="margin-left:auto;padding:.35rem .6rem;border:1px solid #d0d7de;background:#f6f8fa;border-radius:.35rem;cursor:pointer;" onclick="const titles = extractTitlesFromReferenceList('ol'); renderWordCloud(titles, '#wordcloud-canvas');">Show word cloud</button>
+        <button class="hide-word-cloud" type="button" title="Hide word cloud" style="margin-left:auto;padding:.35rem .6rem;border:1px solid #d0d7de;background:#f6f8fa;border-radius:.35rem;cursor:pointer;" onclick="const canvas = document.getElementById('wordcloud-canvas'); const context = canvas.getContext('2d') ;context.clearRect(0, 0, canvas.width, canvas.height);">Hide word cloud</button>
+    </div>
+    <canvas id="wordcloud-canvas" width="800" height="500"></canvas>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.7/d3.layout.cloud.min.js"></script>
 <script src="/awesome-robot-failure-management/assets/js/pub-filter.js"></script>
+<script src="/awesome-robot-failure-management/assets/js/wordcloud-visualiser.js"></script>
