@@ -2,6 +2,8 @@
 
 A curated list of resources related to robot failure management (detection, diagnosis, recovery).
 
+The best way to browse through the collection is using the [website](https://robot-failures.github.io/awesome-robot-failure-management/).
+
 Maintainer: [Alex Mitrevski](https://alex-mitrevski.com)
 
 ## Contents
