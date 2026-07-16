@@ -150,9 +150,9 @@
           `extractTitlesFromReferenceList: no element found for selector "${source}".`
         );
       }
-      liElements = el.tagName === "LI" ? [el] : Array.from(el.querySelectorAll("li"));
+      liElements = el.tagName === "LI" ? [el] : Array.from(el.querySelectorAll('li:not([style*="display: none"])'));
     } else if (source instanceof HTMLOListElement || source instanceof HTMLUListElement) {
-      liElements = Array.from(source.querySelectorAll("li"));
+      liElements = Array.from(source.querySelectorAll('li:not([style*="display: none"])'));
     } else if (source instanceof HTMLLIElement) {
       liElements = [source];
     } else if (source instanceof NodeList || Array.isArray(source)) {
