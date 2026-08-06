@@ -6,6 +6,7 @@ The following list compiles publications that consider human factors, such as ex
 
 **Scroll to the bottom of the page if you want to visualise a word cloud of the paper titles**.
 
+1. Z. Mo, M. T. Liu, and S. Zheng, "Employee emotions and emotional labor after robot service failure: Anthropomorphism as moderator," *Journal of Hospitality and Tourism Management*, vol. 68, pp. 101494:1-11, Sept. 2026. Available: [https://doi.org/10.1016/j.jhtm.2026.101494](https://doi.org/10.1016/j.jhtm.2026.101494)
 1. Y. Topoglu, F. Krueger, S. Joshi, N. Rothstein, A. A. Franke, X. Li, J. Gratch, E. J. de Visser, and H. Ayaz, "Multilevel dynamics of the brain, hormones, mind, and behavior in social human-robot interaction," *Science Robotics*, vol. 11, no. 116, pp. 1-18, July 2026. Available: [https://doi.org/10.1126/scirobotics.aec1762](https://doi.org/10.1126/scirobotics.aec1762)
 1. S. Yang, J. Park, S. You, and Y. Chang, "Why Do Service Robots Fail? A Systematic Literature Review from a Service Design Perspective," in *Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI)*, 2026, pp. 108-118. Available: [https://doi.org/10.1145/3757279.3788665](https://doi.org/10.1145/3757279.3788665)
 1. R. Tabatabaei, V. Kostakos, and W. Johal, "Oops, I Did It Again (But I Know It): Robot Failure Consistency and Awareness in Human-Robot Collaboration," in *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI)*, 2026, pp. 1-18. Available: [https://doi.org/10.1145/3772318.3790336](https://doi.org/10.1145/3772318.3790336)
