@@ -47,7 +47,7 @@ If you find this resource useful for your work, please consider citing it as fol
 ```
 @misc{awerofam,
     author = {Mitrevski, A. and others},
-    title = {{AweRoFaM: A Curated List of Resources Related to Robot Failure Management}},
+    title = {AweRoFaM: A Curated List of Resources Related to Robot Failure Management},
     year = {2025},
     howpublished = {Online},
     url = {\url{https://robot-failures.github.io/awesome-robot-failure-management/}}
